@@ -1,0 +1,48 @@
+.card {
+    width: 365px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 35px;
+    margin-right:10px;
+}
+
+.profile {
+    font-weight: 400;
+    font-size:14px;
+    line-height: 21px;
+    color: #00B6DF;
+}
+
+.name {
+    font-weight: 600;
+    font-size:25px;
+    line-height: 25px;
+    color:#494949;
+    padding: 4px 0 10px 0 ;
+}
+
+.desc {
+    font-weight: 400;
+    font-size:14px;
+    line-height: 21px;
+    color:#494949;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+    border: 4px solid #5ce2ff;
+    border-radius:50%;
+    margin-bottom: 6px;
+}
+
+.button {
+    background: #00d0ff;
+    border-radius: 10px;
+    padding: 6px 20px;
+    border:none;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: 600;
+    cursor:pointer;
+}
